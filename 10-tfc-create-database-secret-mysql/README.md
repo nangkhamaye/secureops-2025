@@ -1,1 +1,0 @@
-# tfc-create-database-secret-mysql
